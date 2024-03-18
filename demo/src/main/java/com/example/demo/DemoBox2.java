@@ -7,4 +7,6 @@ public class DemoBox2 {
 		Box myBox2 = new Box();
 		/* Box mybox;  ----> declare reference to object
             mybox = new Box(); ----> allocate a Box object*/
-		git st
+		// git st
+	}
+}
