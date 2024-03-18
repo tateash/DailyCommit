@@ -8,6 +8,6 @@ public class test {
 	 }
 	public static void main(String args[])
 	{
-		test.msg();
+		test.msg(); // calling msg method 
 	}
 	}
